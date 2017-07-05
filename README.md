@@ -1,6 +1,6 @@
 # luizgabriell.github.io
 
-# Hellow World!
+# Hello World!
 
 Welcome to my personal repository. Here you will find personal projects created by me during my studies in the area of programming and web development.
 
